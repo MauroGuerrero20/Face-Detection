@@ -14,5 +14,5 @@ Link to OpenCV Github: https://github.com/opencv/opencv
 - **Additional Instructions:**
     - Note: **xxx** is your OpenCV Version (E.g. OpenCV 4.3.0 would be **430**).
     - Add **opencv_worldxxx.lib** into the Additional Dependencies
+    ![Additional Instructions](https://user-images.githubusercontent.com/53728084/85213067-b2e18d00-b316-11ea-9b03-6e4464996e09.PNG)
     - Add **opencv_worldxxx.dll** and **opencv_worldxxx.dll** into the Face Detection Folder
-     ![Additional Instructions](https://user-images.githubusercontent.com/53728084/85213067-b2e18d00-b316-11ea-9b03-6e4464996e09.PNG)
