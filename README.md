@@ -5,8 +5,9 @@
 
 - Depends on the **openCV** library.
 
-
 Link to OpenCV Github: https://github.com/opencv/opencv
+
+![face_detection_img_copy](https://user-images.githubusercontent.com/53728084/87886168-0c051500-c9d8-11ea-9edc-3c89eaf14616.png)
 
 #### Visual Studio IDE Configuration Setup
 
